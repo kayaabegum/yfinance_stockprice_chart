@@ -15,8 +15,7 @@ This Python script fetches historical stock closing price data for ARCLK.IS (Ar√
 1. Clone the repository:
 
 ```bash
-[git clone <repository_url>
-cd <repository_name>](https://github.com/kayaabegum/yfinance_stockprice_chart.git)
+https://github.com/kayaabegum/yfinance_stockprice_chart.git
 ```
 
 2. Install dependencies:
